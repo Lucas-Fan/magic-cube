@@ -1,0 +1,12 @@
+# MAC
+.DS_Store
+
+# yarn
+node_modules
+build
+
+# vs code
+.vscode
+
+# log
+*.log
