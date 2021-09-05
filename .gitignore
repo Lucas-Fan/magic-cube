@@ -10,3 +10,7 @@ build
 
 # log
 *.log
+
+# lock
+package-lock.json
+yarn.lock

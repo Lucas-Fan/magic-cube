@@ -104,7 +104,7 @@ module.exports = {
     'no-plusplus': OFF,
     'no-console': OFF,
     'class-methods-use-this': ERROR,
-    'jsx-quotes': [ERROR, 'prefer-single'],
+    'jsx-quotes': [ERROR, 'prefer-double'],
     'global-require': OFF
   }
 }
